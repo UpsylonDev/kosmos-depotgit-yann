@@ -8,6 +8,9 @@
     source kosmos-env-v3/bin/activate<br>
   
   2 - install all packages<br>
-    pip install requirements.txt<br>
+    pip install -r requirements.txt<br>
+
+<br>
+All required packages will be installed in kosmos-v3/lib.
 
 
