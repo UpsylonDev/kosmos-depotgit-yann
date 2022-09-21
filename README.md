@@ -3,11 +3,11 @@
 # installation 
   Linux: with virtualenv installed
 
-  1 - activate environement
-    cd ./kosmos-env-v3
-    source kosmos-env-v3/bin/activate
+  1 - activate environement<br>
+    cd ./kosmos-env-v3<br>
+    source kosmos-env-v3/bin/activate<br>
   
-  2 - install all packages
-    pip install requirements.txt
+  2 - install all packages<br>
+    pip install requirements.txt<br>
 
 
